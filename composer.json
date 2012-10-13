@@ -1,21 +1,22 @@
 {
     "name": "dayax/opengraph",
     "description": "Open Graph Tag Generator",
+    "version": "1.0.0-dev",
     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Anthonius Munthi",
-            "email": "toni.munthi@gmail.com"
+            "email": "toni.dayak@gmail.com"
         }
     ],
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
-        "dayax/core": "1.0.*"
+        "dayax/core": "@dev"
     },
     "autoload": {
         "psr-0": { 
-            "dayax/opengraph": "src/"
+            "opengraph":"src/"
         }
     }
 }

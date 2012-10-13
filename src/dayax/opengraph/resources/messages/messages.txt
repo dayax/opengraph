@@ -1,0 +1,3 @@
+og.config_invalid = OpenGraph doesn't have "{0}" config.
+og.required_property = Open Graph type "{0}" must have property "{1}" value.
+og.validate_fail = Fail to validate open graph for type "{0}" with message: {1}.
